@@ -156,7 +156,7 @@ app.get('/', (req, res) => {
     <div class="header">
       <div class="header-badge"><div class="pulse"></div> Live on Google Cloud Run</div>
       <h1>My Cloud Projects</h1>
-      <p class="subtitle">Akshata's DevOps and GCP learning journey</p>
+      <p class="subtitle">Akshatha's DevOps and GCP learning journey</p>
     </div>
     <div class="stats">
       <div class="stat"><div class="stat-n purple">${total}</div><div class="stat-l">Total projects</div></div>
